@@ -1,6 +1,11 @@
 import 'dotenv/config'
 
 
+
+export const getNumberWord = () => {
+    return Number(process.env.NUMBER_WORD)
+}
+
 export const getConfigNumber = () => {
 
     let signe = process.env.SIGNED
