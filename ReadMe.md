@@ -1,3 +1,8 @@
+
+[TP3 - Analyse de mots.pdf](https://github.com/Squard974/dev-avancee-tp3/files/14252669/TP3.-.Analyse.de.mots.pdf)
+
+
+
 ## Client Redpanda (Producer) sous NodeJS
 Le client envoie des données aléatoires numériques ou textuelles en fonction de la configuration enregistrée.
 Il est prévu de l'utiliser avec le docker-compose `redpanda-quickstart`. 
